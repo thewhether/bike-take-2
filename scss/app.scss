@@ -1,0 +1,19 @@
+@import "settings";
+@import "foundation";
+
+.site-title {
+	// border-bottom: 8px solid #333;
+	font-family: 'Bitter', serif;
+	font-size: 2em;
+}
+
+.quarter-snips {
+	min-width: 15%;
+	border-bottom: 1px solid #333;
+	border-left: 1px solid #333;
+	padding: 15px 0 13px 15px;
+}
+
+.stories {
+	padding: 0 20px 0 20px
+}
